@@ -2,4 +2,4 @@
 
 ![banner_serverless](https://s3.amazonaws.com/serverlesssite117/banner_serverless.png)
 
-http://serverlesssite117.s3-website-us-east-1.amazonaws.com/
+![Click Me](http://serverlesssite117.s3-website-us-east-1.amazonaws.com/)
